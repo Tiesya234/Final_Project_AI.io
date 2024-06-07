@@ -12,6 +12,6 @@ Penggunaan warna biru dan putih memberikan kesan stabilitas dan keberlanjutan. S
 
 ## Formulir Prediksi Kerusakan
 
-![Form](img/2.png)
+![Form](images/2.png)
 
 Gambar diatas merupakan tampilan dari website sistem prediksi perawatan yang memungkinkan pengguna untuk melakukan prediksi potensi kerusakan peralatan. Terdapat sebuah formulir yang meminta pengguna untuk mengunggah gambar yang akan diprediksi oleh sistem. Pengguna dapat memilih gambar dengan mengeklik tombol "Select your picture" atau dengan menarik dan menjatuhkan gambar ke area yang tersedia. Kemudian terdapat tombol "Predict" yang akan memulai proses prediksi kerusakan berdasarkan gambar yang diunggah oleh pengguna.
